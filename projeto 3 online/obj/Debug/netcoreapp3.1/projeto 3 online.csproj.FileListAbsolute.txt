@@ -1,0 +1,14 @@
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\bin\Debug\netcoreapp3.1\projeto 3 online.exe
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\bin\Debug\netcoreapp3.1\projeto 3 online.deps.json
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\bin\Debug\netcoreapp3.1\projeto 3 online.runtimeconfig.json
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\bin\Debug\netcoreapp3.1\projeto 3 online.runtimeconfig.dev.json
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\bin\Debug\netcoreapp3.1\projeto 3 online.dll
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\bin\Debug\netcoreapp3.1\projeto 3 online.pdb
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\obj\Debug\netcoreapp3.1\projeto 3 online.csproj.AssemblyReference.cache
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\obj\Debug\netcoreapp3.1\projeto 3 online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\obj\Debug\netcoreapp3.1\projeto 3 online.AssemblyInfoInputs.cache
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\obj\Debug\netcoreapp3.1\projeto 3 online.AssemblyInfo.cs
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\obj\Debug\netcoreapp3.1\projeto 3 online.csproj.CoreCompileInputs.cache
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\obj\Debug\netcoreapp3.1\projeto 3 online.dll
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\obj\Debug\netcoreapp3.1\projeto 3 online.pdb
+C:\Users\cleas\Desktop\curso c#\projeto 3 online\projeto 3 online\obj\Debug\netcoreapp3.1\projeto 3 online.genruntimeconfig.cache

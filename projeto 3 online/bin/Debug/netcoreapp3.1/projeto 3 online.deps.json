@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "projeto 3 online/1.0.0": {
+        "runtime": {
+          "projeto 3 online.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projeto 3 online/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
